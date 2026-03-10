@@ -104,15 +104,14 @@ Customers without these services churn at significantly higher rates. Bundling t
 ---
 
 ##  Dashboard Preview
-
-*(Add screenshot here)*
+<img width="2050" height="1152" alt="dashboard" src="https://github.com/user-attachments/assets/4b9c6cf0-8c43-49bb-b725-f80e383b198b" />
 
 ---
 
 ## 🔗 Links
 
-- 📊 [Power BI Dashboard — Live](#) *(add link)*
-- 📓 [Jupyter Notebook](#) *(add link)*
+- 📊 [Power BI Dashboard — Live](https://app.powerbi.com/links/NxjPtiie5-?ctid=607d63ca-9f36-4ad8-9f71-8b3efc392eb1&pbi_source=linkShare)
+- 📓 [Jupyter Notebook](https://app.powerbi.com/links/NxjPtiie5-?ctid=607d63ca-9f36-4ad8-9f71-8b3efc392eb1&pbi_source=linkShare) *(add link)*
 - 🗄️ [SQL Files](#) *(add link)*
 
 ---
