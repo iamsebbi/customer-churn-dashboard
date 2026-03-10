@@ -110,10 +110,8 @@ Customers without these services churn at significantly higher rates. Bundling t
 
 ## 🔗 Links
 
-- 📊 [Power BI Dashboard — Live](https://app.powerbi.com/links/NxjPtiie5-?ctid=607d63ca-9f36-4ad8-9f71-8b3efc392eb1&pbi_source=linkShare)
-- 📓 [Jupyter Notebook](https://app.powerbi.com/links/NxjPtiie5-?ctid=607d63ca-9f36-4ad8-9f71-8b3efc392eb1&pbi_source=linkShare) *(add link)*
-- 🗄️ [SQL Files](#) *(add link)*
+- 📊 [Power BI Dashboard — Live](https://github.com/iamsebbi/customer-churn-dashboard/blob/main/telco_customers1.pbix)
+- 📓 [Jupyter Notebook](https://github.com/iamsebbi/customer-churn-dashboard/blob/main/analiza_vizuala.ipynb)
+- 🗄️ [SQL Files](https://github.com/iamsebbi/customer-churn-dashboard/blob/main/pregatire_date.sql)
 
 ---
-
-*Built by [Your Name] · Iași, România · 2026*
